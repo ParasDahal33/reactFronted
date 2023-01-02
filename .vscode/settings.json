@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "EditorConfig.EditorConfig",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
